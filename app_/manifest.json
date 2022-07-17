@@ -1,11 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "immutable/start-78d0ed43.js",
+    "file": "immutable/start-e45ec77f.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-e40c332d.js",
-      "_index-31d08d2f.js"
+      "_index-10a81453.js"
     ],
     "dynamicImports": [
       ".svelte-kit/runtime/components/layout.svelte",
@@ -14,47 +13,40 @@
     ]
   },
   ".svelte-kit/runtime/components/layout.svelte": {
-    "file": "immutable/layout.svelte-d3fcb715.js",
+    "file": "immutable/layout.svelte-817688f6.js",
     "src": ".svelte-kit/runtime/components/layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-e40c332d.js"
+      "_index-10a81453.js"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "immutable/error.svelte-3759ef75.js",
+    "file": "immutable/error.svelte-a5eae6bd.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-e40c332d.js"
+      "_index-10a81453.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "immutable/pages/index.svelte-951c45f4.js",
+    "file": "immutable/pages/index.svelte-93a231b2.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-e40c332d.js",
-      "_index-31d08d2f.js"
+      "_index-10a81453.js"
     ],
     "css": [
-      "immutable/assets/index-77773f39.css"
+      "immutable/assets/index-ddb04a2d.css"
     ]
   },
-  "_index-e40c332d.js": {
-    "file": "immutable/chunks/index-e40c332d.js"
-  },
-  "_index-31d08d2f.js": {
-    "file": "immutable/chunks/index-31d08d2f.js",
-    "imports": [
-      "_index-e40c332d.js"
-    ]
+  "_index-10a81453.js": {
+    "file": "immutable/chunks/index-10a81453.js"
   },
   "src/routes/index.css": {
-    "file": "immutable/assets/index-77773f39.css",
+    "file": "immutable/assets/index-ddb04a2d.css",
     "src": "src/routes/index.css"
   }
 }
